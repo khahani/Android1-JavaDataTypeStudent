@@ -36,6 +36,11 @@ public class Khahani {
         // 1- eath area in km
         int eathArea = 6371;
 
+        // 2- moon area
+        double moonArea = 14.6; //million square miles
+
+        long moonAreaKm = 38000000; //square miles
+
     }
 
 }
