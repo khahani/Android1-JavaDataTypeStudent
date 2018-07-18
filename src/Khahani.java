@@ -20,6 +20,16 @@ public class Khahani {
          *      9- the speed of light (m/s)
          *      10- The number π (pi)
          */
+        int year = 1397;
+        int month = 4;
+        int day = 24;
+        int price = 10000000; //Rial
+        String codeMelli = "1064030131";
+        String phone = "09394412792";
+        String name = "Mohammadreza";
+        String lastName = "Khahani";
+        long lighSpeed = 299792458L;
+        float pi = 3.14f;
 
         // TODO: 3- please write ten other interesting values and write comment about them
 
