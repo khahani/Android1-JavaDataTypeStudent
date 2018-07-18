@@ -25,4 +25,6 @@ public class Khahani {
     // eath area in km
     int eathArea = 6371;
 
+    // TODO: 4- write them all in output with information to understandable.
+
 }
