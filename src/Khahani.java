@@ -41,6 +41,27 @@ public class Khahani {
 
         long moonAreaKm = 38000000; //square miles
 
+        // TODO: 4- write them all in output with information to understandable.
+
+        System.out.println("year: " + year);
+        System.out.println("month: " + month);
+        System.out.println("day: " + day);
+        System.out.println("date:" + year + "/" + month + "/" + day);
+
+        System.out.println("my name is " + name + " " + lastName + " with code melli " + codeMelli + ".");
+        System.out.println("call me on " + phone);
+
+        System.out.println();
+
+        System.out.println("I know some interseting information like...");
+        System.out.println("speed of light is " + lighSpeed + " mile per second");
+        System.out.println("or");
+        System.out.println("The number π is " + pi);
+        System.out.println("There is a movie named π in 1998. I know ;)");
+
+        System.out.println();
+
+        System.out.println("**** Good luck *****");
     }
 
 }
